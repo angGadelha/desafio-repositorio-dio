@@ -1,1 +1,3 @@
-# desafio-repositorio-dio
+# Desafio DIO: 
+
+- Criar repositório através do GitBash.
